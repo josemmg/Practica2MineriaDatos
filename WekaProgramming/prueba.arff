@@ -1,0 +1,4 @@
+@relation dataset
+@attribute filename string
+@data
+Asi/train/train12.jpg
